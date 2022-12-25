@@ -1,8 +1,8 @@
 ### 👋 Hi Guys, I’m @arnabpal2022
 I am a Student, Currently Pursuing My B.Tech Degree From Maulana Abul Kalam Azad University of Technology. Looking forward to the World of Open Source to learn and explore.
-- 👀 I’m interested in Software Engineering & Artificial Intelligence. Trying to Research on them too.
-- 🌱 I’m currently learning JAVA & C++
-- 💞️ Currently learning from JetBrains Academy.
+- 👀 Interested in Many Fields of Tech-World. Still Exploring....
+- 🌱 Learning Java and Data Structures & Algorithms.
+- 💞️ Making Projects in Web Development Through HTML & CSS.
 
 <hr />
 
