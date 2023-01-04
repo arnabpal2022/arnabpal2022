@@ -1,7 +1,7 @@
 ### 👋 Hi Guys, I’m @arnabpal2022
 I am a Student, Currently Pursuing My B.Tech Degree From Maulana Abul Kalam Azad University of Technology. Looking forward to the World of Open Source to learn and explore.
 - 👀 Interested in Many Fields of Tech-World. Still Exploring....
-- 🌱 Learning Java and Data Structures & Algorithms.
+- 🌱 Learning Java and DSA.
 - 💞️ Making Projects in Web Development Through HTML & CSS.
 
 <hr />
