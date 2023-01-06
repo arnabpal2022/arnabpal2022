@@ -7,7 +7,7 @@ Web Developer and Open Source Lover
 A Student in Freshman Year, Currently Pursuing a B. Tech Degree From Maulana Abul Kalam Azad University of Technology, West Bengal. Looking forward to the world of Technologies & Open Source to learn and explore.
 
 * 🌍  I'm based in Kolkata
-* 🖥️  See my portfolio at [Here.](http://https://linkfree.eddiehub.io/arnabpal2022)
+* 🖥️  See my portfolio at [Here.](http://linkfree.eddiehub.io/arnabpal2022)
 * ✉️  You can contact me at [arnabpalofficial2003@gmail.com](mailto:arnabpalofficial2003@gmail.com)
 * 🧠  I'm learning Web Development and Java
 * 🤝  I'm open to collaborating on Open Source Projects.
