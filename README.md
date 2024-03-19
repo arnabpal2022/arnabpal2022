@@ -24,7 +24,7 @@ I'm a 20-year-old developer and student based in India, and I'm passionate about
 - As a kid, I wanted to be a Cricketer.
 - Songs are my Heart and Movies are my Life.
 
-### Projects
+## 🎯 Projects
 
 Explore all My Projects From Here
 
