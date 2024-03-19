@@ -33,7 +33,7 @@ Explore all My Projects From Here
 - **[CaptiGen](https://github.com/arnabpal2022/CaptiGen), A Manual Subtitle Generator.** `React` `TailwindCSS` `node-webvtt`
 - **[PokeDex](https://github.com/Sreyasree-001/PokeDex), Pokemon Wikipedia.** `React` `TailwindCSS` `PokeAPI`
 - **[Chat Room](https://github.com/arnabpal2022/chat-room), with a Google based authenticated System.** `React` `Firebase`
-- **[Hackaut](https://github.com/joysarkar18/Hackaut-web), College Coding Community Website. (Work on Progress)** `React` `TailwindCSS`
+- **[Hackaut](), College Coding Community Website. (Work on Progress)** `React` `TailwindCSS`
 - **[To Do List](https://github.com/arnabpal2022/toDoList). with a lovable UI** `React` `TailwindCSS`
 - [Web Crawler](https://github.com/arnabpal2022/web-crawler). `node` `axios` `cheerio`
 - [Color Pallete Generator](https://github.com/arnabpal2022/color-pallete-generator). `React` `JavaScript` `TailwindCSS`
