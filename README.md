@@ -34,11 +34,11 @@ Explore all My Projects From Here
 - **[PokeDex](https://github.com/Sreyasree-001/PokeDex), Pokemon Wikipedia.** `React` `TailwindCSS` `PokeAPI`
 - **[Chat Room](https://github.com/arnabpal2022/chat-room), with a Google based authenticated System.** `React` `Firebase`
 - **[Hackaut](https://github.com/joysarkar18/Hackaut-web), College Coding Community Website. (Work on Progress)** `React` `TailwindCSS`
-- **[To Do List](https://github.com/arnabpal2022/toDoList).** `React` `TailwindCSS`
+- **[To Do List](https://github.com/arnabpal2022/toDoList). with a lovable UI** `React` `TailwindCSS`
 - [Web Crawler](https://github.com/arnabpal2022/web-crawler). `node` `axios` `cheerio`
 - [Color Pallete Generator](https://github.com/arnabpal2022/color-pallete-generator). `React` `JavaScript` `TailwindCSS`
 - [Weather App](https://github.com/arnabpal2022/Weather360). `React` `OpenWeatherMapAPI`
-- [Portfolio](https://github.com/arnabpal2022/itzarnabpal-portfolio). `HTML` `CSS` `JavaScript` `Bootstrap`
+- **[Portfolio](https://github.com/arnabpal2022/itzarnabpal-portfolio), This one was my First Portfolio.** `HTML` `CSS` `JavaScript` `Bootstrap`
 
 
 ## 📫 Contact
