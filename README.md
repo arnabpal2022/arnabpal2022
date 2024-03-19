@@ -2,7 +2,7 @@
 
 I'm a 20-year-old developer and student based in India, and I'm passionate about crafting digital applications. 
 
-- I'm currently learning Java and PostgresSQL for Backend Development.
+- I'm currently learning **Java** and **PostgresSQL** for Backend Development.
 - Check out my [website](https://itzarnabpal.vercel.app/) to learn more about me.
 - Check out [VSCode Configuration]() for development optimization.
  
