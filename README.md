@@ -28,17 +28,17 @@ I'm a 20-year-old developer and student based in India, and I'm passionate about
 
 Explore all My Projects From Here
 
-- A Basic [Web Crawler](https://github.com/arnabpal2022/web-crawler). `node` `axios` `cheerio`
-- A Basic [URL Shortener](https://github.com/arnabpal2022/url-shortener) with a Authenticated System. `Node` `Express` `MongoDB`
-- [Code Quanta](https://github.com/Sreyasree-001/Code-Quanta), AI-Based Code Explainer with Text + Image. (Work on Progress) `Gemini API` `NextJS` `TailwindCSS`
-- [CaptiGen](https://github.com/arnabpal2022/CaptiGen), A Manual Subtitle Generator. `React` `TailwindCSS` `node-webvtt`
-- [PokeDex](https://github.com/Sreyasree-001/PokeDex), Pokemon Wikipedia. `React` `TailwindCSS` `PokeAPI`
-- A Social Media [Chat Room](https://github.com/arnabpal2022/chat-room), with a Authenticated System. `React` `Firebase`
-- A Basic [Color Pallete Generator](https://github.com/arnabpal2022/color-pallete-generator). `React` `JavaScript` `TailwindCSS`
-- [Hackaut](https://github.com/joysarkar18/Hackaut-web), College Coding Community Website. (Work on Progress) `React` `TailwindCSS`
-- A Basic [To Do List](https://github.com/arnabpal2022/toDoList). `React` `TailwindCSS`
-- An Basic [Weather App](https://github.com/arnabpal2022/Weather360). `React` `OpenWeatherMapAPI`
-- My Previous [Portfolio](https://github.com/arnabpal2022/itzarnabpal-portfolio). `HTML` `CSS` `JavaScript` `Bootstrap`
+- **[URL Shortener](https://github.com/arnabpal2022/url-shortener) with a Authenticated System.** `Node` `Express` `MongoDB`
+- **[Code Quanta](https://github.com/Sreyasree-001/Code-Quanta), AI-Based Code Explainer with Text + Image. (Work on Progress)** `Gemini API` `NextJS` `TailwindCSS`
+- **[CaptiGen](https://github.com/arnabpal2022/CaptiGen), A Manual Subtitle Generator.** `React` `TailwindCSS` `node-webvtt`
+- **[PokeDex](https://github.com/Sreyasree-001/PokeDex), Pokemon Wikipedia.** `React` `TailwindCSS` `PokeAPI`
+- **[Chat Room](https://github.com/arnabpal2022/chat-room), with a Google based authenticated System.** `React` `Firebase`
+- **[Hackaut](https://github.com/joysarkar18/Hackaut-web), College Coding Community Website. (Work on Progress)** `React` `TailwindCSS`
+- **[To Do List](https://github.com/arnabpal2022/toDoList).** `React` `TailwindCSS`
+- [Web Crawler](https://github.com/arnabpal2022/web-crawler). `node` `axios` `cheerio`
+- [Color Pallete Generator](https://github.com/arnabpal2022/color-pallete-generator). `React` `JavaScript` `TailwindCSS`
+- [Weather App](https://github.com/arnabpal2022/Weather360). `React` `OpenWeatherMapAPI`
+- [Portfolio](https://github.com/arnabpal2022/itzarnabpal-portfolio). `HTML` `CSS` `JavaScript` `Bootstrap`
 
 
 ## 📫 Contact
