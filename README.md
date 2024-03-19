@@ -1,4 +1,4 @@
-### Hey, I'm Arnab 👋🏽  
+# Hey, I'm Arnab 👋🏽  
 
 I'm a 20-year-old developer and student based in India, and I'm passionate about crafting digital applications. 
 
