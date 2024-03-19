@@ -26,7 +26,7 @@ I'm a 20-year-old developer and student based in India, and I'm passionate about
 
 ## 🎯 Projects
 
-Explore all My Projects From Here
+Explore all My Projects From Here.....
 
 - **[URL Shortener](https://github.com/arnabpal2022/url-shortener) with a Authenticated System.** `Node` `Express` `MongoDB`
 - **[Code Quanta](https://github.com/Sreyasree-001/Code-Quanta), AI-Based Code Explainer with Text + Image. (Work on Progress)** `Gemini API` `NextJS` `TailwindCSS`
