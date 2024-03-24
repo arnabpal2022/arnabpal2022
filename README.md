@@ -1,6 +1,6 @@
 # Hey, I'm Arnab 👋🏽  
 
-I'm a 20-year-old developer and student based in India, and I'm passionate about crafting digital applications. 
+I'm a 20-year-old student-cum-developer based in India, and I'm passionate about crafting digital applications. 
 
 - I'm currently learning **Java** and **PostgresSQL** for Backend Development.
 - Check out my [website](https://itzarnabpal.vercel.app/) to learn more about me.
