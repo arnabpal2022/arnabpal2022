@@ -45,6 +45,6 @@ Explore all My Projects From Here.....
 
  For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/arnab-pal-90946b244/). 
 
- ## [![Rebelchris header](https://github.com/rebelchris/rebelchris/blob/master/assets/social-cover.png)]()
+ ## [![Arnab Pal](https://github.com/rebelchris/rebelchris/blob/master/assets/social-cover.png)](#)
  
 
