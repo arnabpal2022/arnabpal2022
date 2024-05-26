@@ -39,6 +39,7 @@ Explore all My Projects From Here.....
 - [Color Pallete Generator](https://github.com/arnabpal2022/color-pallete-generator). `React` `JavaScript` `TailwindCSS`
 - [Weather App](https://github.com/arnabpal2022/Weather360). `React` `OpenWeatherMapAPI`
 - **[Portfolio](https://github.com/arnabpal2022/itzarnabpal-portfolio), This one was my First Portfolio.** `HTML` `CSS` `JavaScript` `Bootstrap`
+- [LinkSave Chrome Extension](https://github.com/arnabpal2022/LinksaveExt), My First Chrome Extension. `NextJS` `Firebase` `Manifest V3`
 
 
 ## 📫 Contact
