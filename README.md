@@ -1,10 +1,9 @@
 # Hey, I'm Arnab 👋🏽  
 
-I'm a 20-year-old student-cum-developer based in India, and I'm passionate about crafting digital applications. 
+I'm a 21-year-old student-cum-developer based in India, and I'm passionate about crafting softwares. 
 
-- I'm currently learning **Java** and **PostgresSQL** for Backend Development.
+- I'm currently learning **SpringBoot** and **Docker** for Backend Development.
 - Check out my [website](https://itzarnabpal.vercel.app/) to learn more about me.
-- Check out [VSCode Configuration]() for development optimization.
  
 ## 📦 Toolbox
 
@@ -12,9 +11,9 @@ I'm a 20-year-old student-cum-developer based in India, and I'm passionate about
  
 **Version Control:** `Docker` `Git` `Github`
 
-**Backend Development:** `Go` `PostgreSQL` `NodeJS` `Express` `MongoDB` `Firebase` 
+**Backend Development:** `SpringBoot` `PostgreSQL` `NodeJS` `Express` `MongoDB` `Firebase` 
 
-**Languages:** `Go` `Python` `Java` `C++` `C` `OCaml`
+**Languages:** `Java` `Go` `Python` `C++` `C` `OCaml`
 
 **Designs:** `Figma` `Canva`
  
@@ -28,6 +27,7 @@ I'm a 20-year-old student-cum-developer based in India, and I'm passionate about
 
 Explore all My Projects From Here.....
 
+- **[Multithreaded Web Server](https://github.com/arnabpal2022/Multithreaded-Web-Server)** `Java`
 - **[URL Shortener](https://github.com/arnabpal2022/url-shortener) with a Authenticated System.** `Node` `Express` `MongoDB`
 - **[Code Quanta](https://github.com/Sreyasree-001/Code-Quanta), AI-Based Code Explainer with Text + Image. (Work on Progress)** `Gemini API` `NextJS` `TailwindCSS`
 - **[CaptiGen](https://github.com/arnabpal2022/CaptiGen), A Manual Subtitle Generator.** `React` `TailwindCSS` `node-webvtt`
