@@ -33,13 +33,9 @@ Explore all My Projects From Here.....
 - **[CaptiGen](https://github.com/arnabpal2022/CaptiGen), A Manual Subtitle Generator.** `React` `TailwindCSS` `node-webvtt`
 - **[PokeDex](https://github.com/Sreyasree-001/PokeDex), Pokemon Wikipedia.** `React` `TailwindCSS` `PokeAPI`
 - **[Chat Room](https://github.com/arnabpal2022/chat-room), with a Google based authenticated System.** `React` `Firebase`
-- **[Hackaut](), College Coding Community Website. (Work on Progress)** `React` `TailwindCSS`
-- **[To Do List](https://github.com/arnabpal2022/toDoList). with a lovable UI** `React` `TailwindCSS`
-- [Web Crawler](https://github.com/arnabpal2022/web-crawler). `node` `axios` `cheerio`
-- [Color Pallete Generator](https://github.com/arnabpal2022/color-pallete-generator). `React` `JavaScript` `TailwindCSS`
-- [Weather App](https://github.com/arnabpal2022/Weather360). `React` `OpenWeatherMapAPI`
+- **[Hackaut](https://hackaut.club), College Coding Community Website.** `React` `TailwindCSS`
 - **[Portfolio](https://github.com/arnabpal2022/itzarnabpal-portfolio), This one was my First Portfolio.** `HTML` `CSS` `JavaScript` `Bootstrap`
-- [LinkSave Chrome Extension](https://github.com/arnabpal2022/LinksaveExt), My First Chrome Extension. `NextJS` `Firebase` `Manifest V3`
+- **[LinkSave Chrome Extension](https://github.com/arnabpal2022/LinksaveExt), My First Chrome Extension.** `NextJS` `Firebase` `Manifest V3`
 
 
 ## 📫 Contact
