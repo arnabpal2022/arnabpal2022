@@ -26,6 +26,7 @@ I'm a 21-year-old student-cum-developer based in India, and I'm passionate about
 ## 🎯 Projects
 
 Explore all My Projects From Here.....
+- **[Real Time Monitoring System](https://github.com/arnabpal2022/Real-Time-Monitoring-System) to track user interactions on a web application.** `Kafka` `Springboot` `Docker` `Prometheus` `Grafana` 
 - **[CLC](https://github.com/arnabpal2022/CLC) A basic interpreter written in Java.** `Java`
 - **[Multithreaded Web Server](https://github.com/arnabpal2022/Multithreaded-Web-Server)** `Java`
 - **[URL Shortener](https://github.com/arnabpal2022/url-shortener) with a Authenticated System.** `Node` `Express` `MongoDB`
