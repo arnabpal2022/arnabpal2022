@@ -7,13 +7,13 @@ I'm a 21-year-old student-cum-developer based in India, and I'm passionate about
  
 ## 📦 Toolbox
 
-**Frontend Development:** `JavaScript` `TypeScript` `React` `Zustand` `NextJS` `TailwindCSS` `BootStrap` `ShadCN UI`
+**Frontend Development:** `TypeScript` `React` `NextJS` `TailwindCSS` `ShadCN UI`
  
-**Version Control:** `Docker` `Git` `Github`
+**Version Control and Tools :** `Docker` `Git` `Github` `Prometheus` `Grafana`
 
-**Backend Development:** `SpringBoot` `PostgreSQL` `NodeJS` `Express` `MongoDB` `Firebase` 
+**Backend Development:** `Kafka` `SpringBoot` `PostgreSQL` `NodeJS` `MongoDB` `Firebase` 
 
-**Languages:** `Java` `Go` `Python` `C++` `C` `OCaml`
+**Languages:** `Java` `Python` `Go` `C++` `C` `OCaml`
 
 **Designs:** `Figma` `Canva`
  
