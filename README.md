@@ -26,6 +26,7 @@ I'm a 21-year-old student-cum-developer based in India, and I'm passionate about
 ## 🎯 Projects
 
 Explore all My Projects From Here.....
+- **[AcademiaAI](https://github.com/hawkaii/statuscode)** `Machine Learning` `RAG` `OpenAI` `Agentic AI` `Next.js` `OCR`
 - **[Scalable Authentication Service](https://github.com/arnabpal2022/Real-Time-Monitoring-System)** `Spring` `Spring Security` `Kafka` `Docker` `JWT` `OAuth`
 - **[Real Time Monitoring System](https://github.com/arnabpal2022/Real-Time-Monitoring-System) to track user interactions on a web application.** `Kafka` `Springboot` `Docker` `Prometheus` `Grafana` 
 - **[CLC](https://github.com/arnabpal2022/CLC) A basic interpreter written in Java.** `Java`
