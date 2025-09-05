@@ -28,7 +28,7 @@ I'm a 22-year-old Computer Science Enthusiast based in India, and I love to buil
 
 Explore all My Projects From Here.....
 - **[Uniembed-SQLi-Detection](https://github.com/arnabpal2022/UniEmbed-SQLi-Detection)** An SQLi Detection Model. `Machine Learning` `Text Embedding` `NLP`
-- **[Veritus](https://github.com/arnabpal2022/Veritus)** A Agentic AI Based News Generator using Source Backed Articles. `Langchain` `Langgraph` `Groq` `Python`
+- **[Veritas](https://github.com/arnabpal2022/Veritas)** A Agentic AI Based News Generator using Source Backed Articles. `Langchain` `Langgraph` `Groq` `Python`
 - **[AcademiaAI](https://github.com/hawkaii/statuscode)** `Machine Learning` `RAG` `OpenAI` `Agentic AI` `Next.js` `OCR`
 - **[Scalable Authentication Service](https://github.com/arnabpal2022/Real-Time-Monitoring-System)** `Spring` `Spring Security` `Kafka` `Docker` `JWT` `OAuth`
 - **[Real Time Monitoring System](https://github.com/arnabpal2022/Real-Time-Monitoring-System) to track user interactions on a web application.** `Kafka` `Springboot` `Docker` `Prometheus` `Grafana` 
