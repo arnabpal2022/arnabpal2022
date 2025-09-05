@@ -1,8 +1,9 @@
 # Hey, I'm Arnab 👋🏽  
 
-I'm a 21-year-old student-cum-developer based in India, and I'm passionate about crafting softwares. 
+I'm a 22-year-old Computer Science Enthusiast based in India, and I love to build softwares.
+(And Absolutely I take help of AI in my Works)
 
-- I'm currently learning **SpringBoot** and **Docker** for Backend Development.
+- I'm currently learning **Machine Learning**, **Deep Learning** and **Generative AI**.
 - Check out my [website](https://itzarnabpal.vercel.app/) to learn more about me.
  
 ## 📦 Toolbox
@@ -26,6 +27,8 @@ I'm a 21-year-old student-cum-developer based in India, and I'm passionate about
 ## 🎯 Projects
 
 Explore all My Projects From Here.....
+- **[Uniembed-SQLi-Detection](https://github.com/arnabpal2022/UniEmbed-SQLi-Detection)** An SQLi Detection Model. `Machine Learning` `Text Embedding` `NLP`
+- **[Veritus](https://github.com/arnabpal2022/Veritus)** A Agentic AI Based News Generator using Source Backed Articles. `Langchain` `Langgraph` `Groq` `Python`
 - **[AcademiaAI](https://github.com/hawkaii/statuscode)** `Machine Learning` `RAG` `OpenAI` `Agentic AI` `Next.js` `OCR`
 - **[Scalable Authentication Service](https://github.com/arnabpal2022/Real-Time-Monitoring-System)** `Spring` `Spring Security` `Kafka` `Docker` `JWT` `OAuth`
 - **[Real Time Monitoring System](https://github.com/arnabpal2022/Real-Time-Monitoring-System) to track user interactions on a web application.** `Kafka` `Springboot` `Docker` `Prometheus` `Grafana` 
@@ -33,7 +36,7 @@ Explore all My Projects From Here.....
 - **[Multithreaded Web Server](https://github.com/arnabpal2022/Multithreaded-Web-Server)** `Java`
 - **[URL Shortener 2.0](https://github.com/arnabpal2022/URLShortenerv2) with MVC Pattern.** `Java` `SpringBoot` `MongoDB` `Docker` 
 - **[URL Shortener](https://github.com/arnabpal2022/url-shortener) with a Authenticated System.** `Node` `Express` `MongoDB`
-- **[Code Quanta](https://github.com/Sreyasree-001/Code-Quanta), AI-Based Code Explainer with Text + Image. (Work on Progress)** `Gemini API` `NextJS` `TailwindCSS`
+- **[Code Quanta](https://github.com/Sreyasree-001/Code-Quanta), AI-Based Code Explainer with Text + Image.** `Gemini API` `NextJS` `TailwindCSS`
 - **[CaptiGen](https://github.com/arnabpal2022/CaptiGen), A Manual Subtitle Generator.** `React` `TailwindCSS` `node-webvtt`
 - **[PokeDex](https://github.com/Sreyasree-001/PokeDex), Pokemon Wikipedia.** `React` `TailwindCSS` `PokeAPI`
 - **[Chat Room](https://github.com/arnabpal2022/chat-room), with a Google based authenticated System.** `React` `Firebase`
